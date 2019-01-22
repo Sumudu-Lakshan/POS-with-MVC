@@ -1,0 +1,3 @@
+Point Of Sale is a sophisticated easy to use software specifically designed to manage the day today workload of wholesale and retail shops.
+This software includes the features of customer management , item management , order placing , ability to view previous order records and saving day today transactions to the system .
+Java 8 is the technological platform used for this software solution and IDE is intellij idea while database used is mysql.In addition , MVC extended architecture was the architectural platform used to design this software solution.
